@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;mycontact&apos; to &apos;banking&apos;" description="Rename resource &apos;mycontact&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/mycontact" name="banking" stamp="1569231055956" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;employee-springboot-crud-restful-api&apos;" deleteContents="false" description="Delete resource &apos;employee-springboot-crud-restful-api&apos;" element1="/employee-springboot-crud-restful-api" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1569251190254"/>
+</session>
